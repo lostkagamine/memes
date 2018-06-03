@@ -34,6 +34,7 @@
 
 # Executables
 *.exe
+*.exe.bak
 *.out
 *.app
 *.i*86
