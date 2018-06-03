@@ -2,7 +2,7 @@ CC=g++
 OUTPUT=memes
 CFLAGS=-fpermissive
 
-build: hoi.cpp
+build: this-is-a-file.cpp
 	$(CC) *.cpp *.hpp -o $(OUTPUT) $(CFLAGS)
 
 clean:
